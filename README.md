@@ -49,6 +49,5 @@ streamlit run app.py
 
 This project utilizes various libraries and APIs, including Streamlit, Pandas, Matplotlib, Seaborn, Pydub, Librosa, and OpenAI's GPT API.
 
-## License
+Visit our project hosted [here](https://vijay-akash-gomlproject.streamlit.app/) to explore insights from audio files.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
