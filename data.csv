@@ -1,0 +1,13 @@
+sample_call_1,"First Call Resolution: No, it was not their first interaction. 
+Call Resolution Rate: Yes, the issue was resolved. 
+Call Transfer Rate: No, the call was not transferred. 
+Error Rate: No errors were made."
+sample_call_2,"Based on the conversation, it is not their first interaction, the issue has been resolved, the call was not transferred, and there were no errors made by the agent."
+sample_call_1,"First Call Resolution: No
+Call Resolution Rate: Yes
+Call Transfer Rate: No
+Error Rate: No"
+sample_call_2,"First Call Resolution (FCR): No, it is not their first interaction.
+Call Resolution Rate: The issue is resolved.
+Call Transfer Rate: The call is not transferred.
+Error Rate: No errors were made by the agent."
